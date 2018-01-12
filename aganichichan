@@ -1,0 +1,68 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.ganiarab"
+  },
+  "showsong": {
+    "errorcode": 0,
+    "pagebine": {
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/8.mp3",
+          "image": "https://cdn-st3.rtr-vesti.ru/vh/pictures/b/980/694.jpg",
+          "s": "New "
+        },
+        {
+          "id": "2",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/7.mp3",
+          "image": "http://proryazan.com/wp-content/uploads/2014/08/8915-370x266.jpg",
+          "s": "New "
+        },
+        {
+          "id": "3",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/6.mp3",
+          "image": "https://chechen.er.ru/media/userdata/news/2016/09/18/12ee7278a3bbb7fc9598846c5360c341.jpg",
+          "s": "New "
+        },
+        {
+          "id": "4",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/5.mp3",
+          "image": "https://chechnyatoday.com/images/news/27674a1e53a2525ac4673f4de7be2c05_L.jpg",
+          "s": "New "
+        },
+        {
+          "id": "5",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/4.mp3",
+          "image": "https://t-l.ru/i/n/741/180741/tn_180741_12516bda3d75.jpg",
+          "s": "New "
+        },
+        {
+          "id": "6",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/3.mp3",
+          "image": "http://afisher.info/jaroslavl/pictures/posters/138335/138335_big.jpg",
+          "s": "New "
+        },
+        {
+          "id": "7",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/2.mp3",
+          "image": "http://grozny-inform.ru/LoadedImages/2014/11/20/ansambl_nohcho_11_2014.jpg",
+          "s": "New "
+        },
+        {
+          "id": "8",
+          "title": "Чеченские песни",
+          "url": "https://archive.org/download/iphonexp1_gmail_Song/1.mp3",
+          "image": "http://www.freya-irk.ru/gallery/bravissimo-odejda-118615-small.jpg",
+          "s": "New "
+        }
+      ]
+    }
+  }
+}
