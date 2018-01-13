@@ -5,75 +5,71 @@
   "showsong": {
     "errorcode": 0,
     "pagebine": {
- 
- {
-  "alubomSong": [
-    {
-      "id": "1",
-      "title": "Rajasthani Songs 2018",
-      "description": "Mandir Jati Mera",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/1.mp3",
-      "image": "https://vid.alarabiya.net/images/2013/09/16/81f44143-cfba-4d7b-9a0a-009ab83f7708/81f44143-cfba-4d7b-9a0a-009ab83f7708_4x3_690x515.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "2",
-      "title": "Rajasthani Songs 2018",
-      "description": "Jhoola",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/2.mp3",
-      "image": "http://www.royaleyecandy.com/wp-content/uploads/2015/01/beautiful-girl-make-up-wallpaper1990x144065527.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "3",
-      "title": "Rajasthani Songs 2018",
-      "description": "Khamma",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/3.mp3",
-      "image": "http://4.bp.blogspot.com/-1TQYc2sH66E/Ur1VXiPGFiI/AAAAAAAAChM/Hdarc-PHNZg/s320/teri+aankhon+mein+wallpaper.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "4",
-      "title": "Rajasthani Songs 2018",
-      "description": "Banna",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/4.mp3",
-      "image": "https://new-beautiful.org/wp-content/uploads/2016/09/20160920-2930.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "5",
-      "title": "Rajasthani Songs 2018",
-      "description": "Moriyo",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/5.mp3",
-      "image": "https://lh3.googleusercontent.com/-a1zCtaOdv54/VQFm8TSv68I/AAAAAAAABGk/_H63B86LV58/w226-h318-n/eyemakeup-makeupstudioin.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "6",
-      "title": "Rajasthani Songs 2018",
-      "description": "Neem",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/6.mp3",
-      "image": "http://www.wiseshe.com/wp-content/uploads/2015/02/modern-bride-indian-bride.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "7",
-      "title": "Rajasthani Songs 2018",
-      "description": "DJ Todiya Manegi Byan Remix",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/7.mp3",
-      "image": "https://data.whicdn.com/images/39342533/large.jpg",
-      "seconds": "370"
-    },
-    {
-      "id": "8",
-      "title": "Rajasthani Songs 2018",
-      "description": "DJ Todiya Manegi Byan",
-      "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/8.mp3",
-      "image": "http://www.pakimag.com/files/2011/12/Aisha-Linnea-Bridal-Wedding-2.jpg",
-      "seconds": "370"
-    } 
-  ]
-}
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": "Rajasthani Songs 2018",
+          "description": "Mandir Jati Mera",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/1.mp3",
+          "image": "https://vid.alarabiya.net/images/2013/09/16/81f44143-cfba-4d7b-9a0a-009ab83f7708/81f44143-cfba-4d7b-9a0a-009ab83f7708_4x3_690x515.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "2",
+          "title": "Rajasthani Songs 2018",
+          "description": "Jhoola",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/2.mp3",
+          "image": "http://www.royaleyecandy.com/wp-content/uploads/2015/01/beautiful-girl-make-up-wallpaper1990x144065527.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "3",
+          "title": "Rajasthani Songs 2018",
+          "description": "Khamma",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/3.mp3",
+          "image": "http://4.bp.blogspot.com/-1TQYc2sH66E/Ur1VXiPGFiI/AAAAAAAAChM/Hdarc-PHNZg/s320/teri+aankhon+mein+wallpaper.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "4",
+          "title": "Rajasthani Songs 2018",
+          "description": "Banna",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/4.mp3",
+          "image": "https://new-beautiful.org/wp-content/uploads/2016/09/20160920-2930.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "5",
+          "title": "Rajasthani Songs 2018",
+          "description": "Moriyo",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/5.mp3",
+          "image": "https://lh3.googleusercontent.com/-a1zCtaOdv54/VQFm8TSv68I/AAAAAAAABGk/_H63B86LV58/w226-h318-n/eyemakeup-makeupstudioin.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "6",
+          "title": "Rajasthani Songs 2018",
+          "description": "Neem",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/6.mp3",
+          "image": "http://www.wiseshe.com/wp-content/uploads/2015/02/modern-bride-indian-bride.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "7",
+          "title": "Rajasthani Songs 2018",
+          "description": "DJ Todiya Manegi Byan Remix",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/7.mp3",
+          "image": "https://data.whicdn.com/images/39342533/large.jpg",
+          "seconds": "370"
+        },
+        {
+          "id": "8",
+          "title": "Rajasthani Songs 2018",
+          "description": "DJ Todiya Manegi Byan",
+          "url": "https://ia601504.us.archive.org/7/items/tryechina_outlook_K_2/8.mp3",
+          "image": "http://www.pakimag.com/files/2011/12/Aisha-Linnea-Bridal-Wedding-2.jpg",
+          "seconds": "370"
+        }
       ]
     }
   }
