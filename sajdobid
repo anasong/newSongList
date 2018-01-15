@@ -1,0 +1,459 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.sajdobid"
+  },
+  "showsong": {
+    "errorcode": {
+      "pagebine": [
+        {
+          "id": "1",
+          "title": "راح للبصرة",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/43.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "2",
+          "title": "شقل لأمي انكسرت الشيشة",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/44.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "3",
+          "title": "يالرايحين لهلي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/45.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "4",
+          "title": "يالغرتك دنياك",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/46.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "5",
+          "title": "ياطارش",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/47.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "6",
+          "title": "يابا العين",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/48.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "7",
+          "title": "وانا وين",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/49.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "8",
+          "title": "من صغر سني",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/50.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "9",
+          "title": "مثل غيم الشتا",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/51.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "10",
+          "title": "لاتقول من احبك عيب",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/52.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "11",
+          "title": "عيرتني بالشيب",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/53.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "12",
+          "title": "زماني",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/54.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "13",
+          "title": "زمان الهموم",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/55.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "14",
+          "title": "دوم الزرع",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/56.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "15",
+          "title": "حرام الهجر",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/57.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "16",
+          "title": "تمرين يادنيا",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/58.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "17",
+          "title": "حوريه",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/59.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "18",
+          "title": "اهنا الغالي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/60.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "19",
+          "title": "التفاحه",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/61.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "20",
+          "title": "البوشيه",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/62.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "21",
+          "title": "نبعة الريحان",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/63.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "22",
+          "title": "على مين تلعبها",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/64.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "23",
+          "title": "ولك لالا",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/65.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "24",
+          "title": "والله ولا والله",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/66.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "25",
+          "title": "هلا يانور عيني",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/67.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "26",
+          "title": "لصعد الجمسي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/68.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "27",
+          "title": "يالي خذيت الروح",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/69.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "28",
+          "title": "حبيبي جروح لك بالقلب",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/70.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "29",
+          "title": "يامدلوله",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/71.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "30",
+          "title": "عاين يادكتور",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/72.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "31",
+          "title": "خمس الحواس",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/73.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "32",
+          "title": "خدري الجاي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/74.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "33",
+          "title": "راح للبصرة",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/43.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "34",
+          "title": "شقل لأمي انكسرت الشيشة",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/44.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "35",
+          "title": "يالرايحين لهلي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/45.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "36",
+          "title": "يالغرتك دنياك",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/46.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "37",
+          "title": "ياطارش",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/47.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "38",
+          "title": "يابا العين",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/48.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "39",
+          "title": "وانا وين",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/49.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "40",
+          "title": "من صغر سني",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/50.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "41",
+          "title": "مثل غيم الشتا",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/51.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "42",
+          "title": "لاتقول من احبك عيب",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/52.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "43",
+          "title": "عيرتني بالشيب",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/53.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "44",
+          "title": "زماني",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/54.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "45",
+          "title": "زمان الهموم",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/55.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "46",
+          "title": "دوم الزرع",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/56.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "47",
+          "title": "حرام الهجر",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/57.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "48",
+          "title": "تمرين يادنيا",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/58.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "49",
+          "title": "حوريه",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/59.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "50",
+          "title": "اهنا الغالي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/60.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "51",
+          "title": "التفاحه",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/61.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "52",
+          "title": "البوشيه",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/62.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "53",
+          "title": "نبعة الريحان",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/63.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "54",
+          "title": "على مين تلعبها",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/64.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "55",
+          "title": "ولك لالا",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/65.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "56",
+          "title": "والله ولا والله",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/66.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "57",
+          "title": "هلا يانور عيني",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/67.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "58",
+          "title": "لصعد الجمسي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/68.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "59",
+          "title": "يالي خذيت الروح",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/69.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "60",
+          "title": "حبيبي جروح لك بالقلب",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/70.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "61",
+          "title": "يامدلوله",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/71.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "62",
+          "title": "عاين يادكتور",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/72.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "63",
+          "title": "خمس الحواس",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/73.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "64",
+          "title": "خدري الجاي",
+          "url": "https://ia601505.us.archive.org/1/items/abide_sh/74.mp3",
+          "image": "https://i.ytimg.com/vi/WlpJbnERqno/maxresdefault.jpg",
+          "seconds": "540"
+        }
+      ]
+    }
+  }
+}
