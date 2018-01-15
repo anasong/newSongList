@@ -1,0 +1,69 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.soltanomanis"
+  },
+  "showsong": {
+    "errorcode": 0,
+    "pagebine": {
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": "الدنيا ضحكتله",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/32.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+
+         },
+        {
+          "id": "2",
+          "title": "هيبة واصلي عماني",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/33.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        },
+        {
+          "id": "3",
+          "title": "ماكو صوتك",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/34.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        },
+        {
+          "id": "4",
+          "title": "يا صاحبي",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/35.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        },
+        {
+          "id": "5",
+          "title": "وينة وينة",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/36.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        },
+        {
+          "id": "6",
+          "title": "محبوبي ضاع",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/37.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        },
+        {
+          "id": "7",
+          "title": "امي",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/38.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        },
+        {
+          "id": "8",
+          "title": "يا دنيا",
+          "url": "https://ia601503.us.archive.org/35/items/soltan_o/39.mp3",
+          "image": "https://ru-clip.com/chimg/64/UCEoV2pWBwQql_5BaKVcinuw.jpg",
+          "seconds": "600"
+        }
+      ]
+    }
+  }
+}
