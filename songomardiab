@@ -1,0 +1,222 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.songomardiab"
+  },
+  "showsong": {
+    "errorcode": 0,
+    "pagebine": {
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": "معدى الناس",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47366.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "2",
+          "title": "اه حبيبى",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47359.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "3",
+          "title": "قلبى اتمناة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47360.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "4",
+          "title": "اول كل حاجة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47357.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "5",
+          "title": "احلى حاجة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47356.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "6",
+          "title": "يا اجمل عيون",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47354.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "7",
+          "title": "قمر اية",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47358.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "8",
+          "title": "حبايب اية",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47349.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "9",
+          "title": "نغمة الحرمان",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47348.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "10",
+          "title": "جنب حبيبى",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47363.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "11",
+          "title": "معدى الناس",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47366.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "12",
+          "title": "اه حبيبى",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47359.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "13",
+          "title": "قلبى اتمناة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47360.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "14",
+          "title": "اول كل حاجة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47357.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "15",
+          "title": "احلى حاجة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47356.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "16",
+          "title": "يا اجمل عيون",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47354.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "17",
+          "title": "قمر اية",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47358.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "18",
+          "title": "حبايب اية",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47349.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "19",
+          "title": "نغمة الحرمان",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47348.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "20",
+          "title": "جنب حبيبى",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47363.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "21",
+          "title": "معدى الناس",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47366.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "22",
+          "title": "اه حبيبى",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47359.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "23",
+          "title": "قلبى اتمناة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47360.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "24",
+          "title": "اول كل حاجة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47357.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "25",
+          "title": "احلى حاجة",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47356.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "26",
+          "title": "يا اجمل عيون",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47354.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "27",
+          "title": "قمر اية",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47358.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "28",
+          "title": "حبايب اية",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47349.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "29",
+          "title": "نغمة الحرمان",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47348.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        },
+        {
+          "id": "30",
+          "title": "جنب حبيبى",
+          "url":"https://ia601505.us.archive.org/2018/items/omar_di/47363.mp3",
+          "image": "https://i.pinimg.com/736x/c9/ab/9a/c9ab9adb1debcb14c435571d543670e3.jpg",
+          "seconds": "540"
+        }
+      ]
+    }
+  }
+}
