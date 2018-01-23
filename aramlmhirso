@@ -1,0 +1,376 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.aramlmhirso"
+  },
+  "showsong": {
+    "errorcode": 0,
+    "pagebine": {
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": "ايه بينك وبينها",
+          "seconds": "312",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Aieh.Bainak.Webenha.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "2",
+          "title": "بلاش مناهدة",
+          "seconds": "263",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Balash.Monahda.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "3",
+          "title": "بتكره ليه",
+          "seconds": "284",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Betkrah.Lieh.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "4",
+          "title": "اللي انت ما تعرفوش",
+          "seconds": "293",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Elly.Enta.Mat3rafoush.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "5",
+          "title": "اسألني انا",
+          "seconds": "374",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Esalny.Ana.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "6",
+          "title": "كلمة واحدة",
+          "seconds": "286",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Kelma.Wahda.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "7",
+          "title": "مش راجعة تاني",
+          "seconds": "252",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Mosh.Regaa.Tany.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "8",
+          "title": "ربنا يخليك ليا",
+          "seconds": "212",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Rabana.Yekhaliek.Leya.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "9",
+          "title": "رايحالك روحي",
+          "seconds": "297",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Rayhalk.Rohy.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "10",
+          "title": "يا ناسيني",
+          "seconds": "257",
+          "url": "https://archive.org/download/Album_AmalMaher_Esalny_Ana_Original_Quality/Ya.Nasseny.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg"
+        },
+        {
+          "id": "11",
+          "title": "انا حبيبتك",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45096.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "12",
+          "title": "ايام متتعوضش",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45097.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "13",
+          "title": "بحبك",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45098.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "14",
+          "title": "غلطت انا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45099.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "15",
+          "title": "مفيهاش بعدين",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45100.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "16",
+          "title": "مهنتش عليا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45101.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "17",
+          "title": "سكة السلامه",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45102.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "18",
+          "title": "ولاد النهارده",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45103.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "19",
+          "title": "ظروفي صعبه",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45104.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "20",
+          "title": "ذكرياتنا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45105.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "21",
+          "title": "عيشها - وائل جسار",
+          "url": "http://ss1.sm3na.com/201601-mp/Sm3na_com_45343.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "22",
+          "title": "يالا",
+          "url": "http://ss1.sm3na.com/201604-mp/Sm3na_com_45585.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "23",
+          "title": "من زمان",
+          "url": "http://ss1.sm3na.com/201605-mp/Sm3na_com_45756.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "24",
+          "title": "ازاى فاتتنى",
+          "url": "http://ss1.sm3na.com/201607-mp/Sm3na_com_46151.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "25",
+          "title": "انا حبيبتك",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45096.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "26",
+          "title": "ايام متتعوضش",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45097.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "27",
+          "title": "بحبك",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45098.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "28",
+          "title": "غلطت انا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45099.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "29",
+          "title": "مفيهاش بعدين",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45100.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "30",
+          "title": "مهنتش عليا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45101.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "31",
+          "title": "سكة السلامه",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45102.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "32",
+          "title": "ولاد النهارده",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45103.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "33",
+          "title": "ظروفي صعبه",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45104.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "34",
+          "title": "ذكرياتنا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45105.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "35",
+          "title": "عيشها - وائل جسار",
+          "url": "http://ss1.sm3na.com/201601-mp/Sm3na_com_45343.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "36",
+          "title": "يالا",
+          "url": "http://ss1.sm3na.com/201604-mp/Sm3na_com_45585.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "37",
+          "title": "من زمان",
+          "url": "http://ss1.sm3na.com/201605-mp/Sm3na_com_45756.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "38",
+          "title": "ازاى فاتتنى",
+          "url": "http://ss1.sm3na.com/201607-mp/Sm3na_com_46151.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "39",
+          "title": "انا حبيبتك",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45096.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "40",
+          "title": "ايام متتعوضش",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45097.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "41",
+          "title": "بحبك",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45098.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "42",
+          "title": "غلطت انا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45099.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "43",
+          "title": "مفيهاش بعدين",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45100.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "44",
+          "title": "مهنتش عليا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45101.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "45",
+          "title": "سكة السلامه",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45102.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "46",
+          "title": "ولاد النهارده",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45103.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "47",
+          "title": "ظروفي صعبه",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45104.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "48",
+          "title": "ذكرياتنا",
+          "url": "http://ms5.sm3na.com/471/Sm3na_com_45105.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "49",
+          "title": "عيشها - وائل جسار",
+          "url": "http://ss1.sm3na.com/201601-mp/Sm3na_com_45343.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "50",
+          "title": "يالا",
+          "url": "http://ss1.sm3na.com/201604-mp/Sm3na_com_45585.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "51",
+          "title": "من زمان",
+          "url": "http://ss1.sm3na.com/201605-mp/Sm3na_com_45756.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        },
+        {
+          "id": "52",
+          "title": "ازاى فاتتنى",
+          "url": "http://ss1.sm3na.com/201607-mp/Sm3na_com_46151.mp3",
+          "image": "http://algamal.net/Files/Articles/2016_04/29421_large.jpg",
+          "seconds": "260"
+        }
+      ]
+    }
+  }
+}
