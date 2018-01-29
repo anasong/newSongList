@@ -1,0 +1,194 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.arsongdabk"
+  },
+  "showsong": {
+    "errorcode": 0,
+    "pagebine": {
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": " اغنية دبكة يرغول",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24685.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "1361"
+        },
+        {
+          "id": "2",
+          "title": "اغنية يا أهل البلد",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24690.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "275"
+        },
+        {
+          "id": "3",
+          "title": "اغنية الحلو الأسمراني",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24682.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "228"
+        },
+        {
+          "id": "4",
+          "title": "هي بلادي",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24683.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "1060"
+        },
+        {
+          "id": "5",
+          "title": "اغنية لوه ولوه يا دلهو",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24689.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "455"
+        },
+        {
+          "id": "6",
+          "title": "اغنية كوكتيل العروس",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24687.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "694"
+        },
+        {
+          "id": "7",
+          "title": "اغنية اريد اهيجن - يا مسافر موال",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24680.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "542"
+        },
+        {
+          "id": "8",
+          "title": "اغنية أحلى غرام",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24679.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "230"
+        },
+        {
+          "id": "9",
+          "title": "اغنية استقبال العرسان",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24681.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "853"
+        },
+        {
+          "id": "10",
+          "title": "اغنية عالعين يا وردة",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24686.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "234"
+        },
+        {
+          "id": "11",
+          "title": "اغنية لمي رموشك",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24688.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "225"
+        },
+        {
+          "id": "12",
+          "title": "اغنية يا طير",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24692.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "196"
+        },
+        {
+          "id": "13",
+          "title": "اغنية يا حلوة شرقي - بص عالحلاوة",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24691.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "587"
+        },
+        {
+          "id": "14",
+          "title": " اغنية دبكة يرغول",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24685.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "1361"
+        },
+        {
+          "id": "15",
+          "title": "اغنية يا أهل البلد",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24690.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "275"
+        },
+        {
+          "id": "16",
+          "title": "اغنية الحلو الأسمراني",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24682.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "228"
+        },
+        {
+          "id": "17",
+          "title": "هي بلادي",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24683.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "1060"
+        },
+        {
+          "id": "18",
+          "title": "اغنية لوه ولوه يا دلهو",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24689.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "455"
+        },
+        {
+          "id": "19",
+          "title": "اغنية كوكتيل العروس",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24687.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "694"
+        },
+        {
+          "id": "20",
+          "title": "اغنية اريد اهيجن - يا مسافر موال",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24680.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "542"
+        },
+        {
+          "id": "21",
+          "title": "اغنية أحلى غرام",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24679.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "230"
+        },
+        {
+          "id": "22",
+          "title": "اغنية استقبال العرسان",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24681.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "853"
+        },
+        {
+          "id": "23",
+          "title": "اغنية عالعين يا وردة",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24686.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "234"
+        },
+        {
+          "id": "24",
+          "title": "اغنية لمي رموشك",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24688.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "225"
+        },
+        {
+          "id": "25",
+          "title": "اغنية يا طير",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24692.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "196"
+        },
+        {
+          "id": "26",
+          "title": "اغنية يا حلوة شرقي - بص عالحلاوة",
+          "url": "https://ms7.sm3na.com/673/Sm3na_com_24691.mp3",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+          "seconds": "587"
+        }
+      ]
+    }
+  }
+}
