@@ -1,0 +1,195 @@
+{
+  "neam_pac": {
+    "app": "trk.appsy.songahmdbinkiss"
+  },
+  "showsong": {
+    "errorcode": 0,
+    "pagebine": {
+      "alubomSong": [
+        {
+          "id": "1",
+          "title": "مريومة",
+          "seconds": "191",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/45892.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "2",
+          "title": "اراهنكم",
+          "seconds": "264",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46972.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "3",
+          "title": "حقير الشوق",
+          "seconds": "255",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46973.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "4",
+          "title": "النفسية محتاجة",
+          "seconds": "235",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46974.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "5",
+          "title": "يكفي",
+          "seconds": "279",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46975.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "6",
+          "title": "ههاي",
+          "seconds": "177",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46976.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "7",
+          "title": "ابويا واحشني جداً",
+          "seconds": "265",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46977.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "8",
+          "title": "الحضارم",
+          "seconds": "254",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46978.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "9",
+          "title": "يا خالة",
+          "seconds": "262",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46979.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "10",
+          "title": "استغفر الله",
+          "seconds": "218",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46980.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "11",
+          "title": "وبيرجعوا",
+          "seconds": "217",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46981.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "12",
+          "title": "اخترتك انت",
+          "seconds": "284",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46982.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "13",
+          "title": "أرجوك",
+          "seconds": "255",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46983.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "14",
+          "title": "مريومة",
+          "seconds": "191",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/45892.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "15",
+          "title": "اراهنكم",
+          "seconds": "264",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46972.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "16",
+          "title": "حقير الشوق",
+          "seconds": "255",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46973.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "17",
+          "title": "النفسية محتاجة",
+          "seconds": "235",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46974.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "18",
+          "title": "يكفي",
+          "seconds": "279",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46975.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "19",
+          "title": "ههاي",
+          "seconds": "177",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46976.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "20",
+          "title": "ابويا واحشني جداً",
+          "seconds": "265",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46977.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "21",
+          "title": "الحضارم",
+          "seconds": "254",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46978.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "22",
+          "title": "يا خالة",
+          "seconds": "262",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46979.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "23",
+          "title": "استغفر الله",
+          "seconds": "218",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46980.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "24",
+          "title": "وبيرجعوا",
+          "seconds": "217",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46981.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "25",
+          "title": "اخترتك انت",
+          "seconds": "284",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46982.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        },
+        {
+          "id": "26",
+          "title": "أرجوك",
+          "seconds": "255",
+          "url": "https://ia801507.us.archive.org/31/items/binki_s/46983.mp3",
+          "image": "http://www.hiamag.com/sites/default/files/article/04/10/2017/6028146-927190289.jpg"
+        }
+      ]
+    }
+  }
+}
+        
