@@ -16,4 +16,35 @@
     "url": "https://ia601503.us.archive.org/2018/items/chili_ab/45553.mp3",
     "imagview": "http://media.linkonlineworld.com/img/large/2018/1/26/2018_1_26_21_15_10_567.jpg",
     "packnem": "com.exsmishimadima.misrichrin"
+  },
+  {
+    "id": 1,
+   
+    "artext": "الفاتحة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/001.mp3",
+    "artists": "عبد الحميد احساين",
+    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah" : "https://raw.githubusercontent.com/anaartext/Quran/master/1.json",
+    "packnem": "sss"
+  },
+  {
+    "id": 2,
+    "artext": "البقرة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/002.mp3",
+    "artists": "عبد الحميد احساين",
+    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah" : "https://raw.githubusercontent.com/anaartext/Quran/master/2.json",
+    "packnem": "sss"
+  },
+  {
+    "id": 3,
+    "artext": "آل عمران",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/003.mp3",
+    "artists": "عبد الحميد احساين",
+    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah" : "https://raw.githubusercontent.com/anaartext/Quran/master/3.json",
+    "packnem": "sss"
   }]
