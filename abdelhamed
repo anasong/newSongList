@@ -5,7 +5,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "1.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/1.json"
   },
   {
     "song": "البقرة",
@@ -13,7 +13,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "2.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/2.json"
   },
   {
     "song": "آل عمران",
@@ -21,7 +21,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "3.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/3.json"
   },
   {
     "song": "النساء",
@@ -29,7 +29,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "4.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/4.json"
   },
   {
     "song": "المائدة",
@@ -37,7 +37,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "5.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/5.json"
   },
   {
     "song": "الأنعام",
@@ -45,7 +45,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "6.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/6.json"
   },
   {
     "song": "الأعراف",
@@ -53,7 +53,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "7.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/7.json"
   },
   {
     "song": "الأنفال",
@@ -61,7 +61,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "8.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/8.json"
   },
   {
     "song": "التوبة",
@@ -69,7 +69,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "9.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/9.json"
   },
   {
     "song": "يونس",
@@ -77,7 +77,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "10.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/10.json"
   },
   {
     "song": "هود",
@@ -85,7 +85,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "11.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/11.json"
   },
   {
     "song": "يوسف",
@@ -93,7 +93,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "12.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/12.json"
   },
   {
     "song": "الرعد",
@@ -101,7 +101,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "13.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/13.json"
   },
   {
     "song": "إبراهيم",
@@ -109,7 +109,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "14.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/14.json"
   },
   {
     "song": "الحجر",
@@ -117,7 +117,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "15.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/15.json"
   },
   {
     "song": "النحل",
@@ -125,7 +125,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "16.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/16.json"
   },
   {
     "song": "الإسراء",
@@ -133,7 +133,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "17.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/17.json"
   },
   {
     "song": "الكهف",
@@ -141,7 +141,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "18.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/18.json"
   },
   {
     "song": "مريم",
@@ -149,7 +149,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "19.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/19.json"
   },
   {
     "song": "طه",
@@ -157,7 +157,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "20.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/20.json"
   },
   {
     "song": "الأنبياء",
@@ -165,7 +165,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "21.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/21.json"
   },
   {
     "song": "الحج",
@@ -173,7 +173,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "22.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/22.json"
   },
   {
     "song": "المؤمنون",
@@ -181,7 +181,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "23.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/23.json"
   },
   {
     "song": "النور",
@@ -189,7 +189,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "24.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/24.json"
   },
   {
     "song": "الفرقان",
@@ -197,7 +197,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "25.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/25.json"
   },
   {
     "song": "الشعراء",
@@ -205,7 +205,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "26.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/26.json"
   },
   {
     "song": "النمل",
@@ -213,7 +213,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "27.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/27.json"
   },
   {
     "song": "القصص",
@@ -221,7 +221,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "28.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/28.json"
   },
   {
     "song": "العنكبوت",
@@ -229,7 +229,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "29.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/29.json"
   },
   {
     "song": "الروم",
@@ -237,7 +237,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "30.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/30.json"
   },
   {
     "song": "لقمان",
@@ -245,7 +245,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "31.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/31.json"
   },
   {
     "song": "السجدة",
@@ -253,7 +253,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "32.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/32.json"
   },
   {
     "song": "الأحزاب",
@@ -261,7 +261,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "33.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/33.json"
   },
   {
     "song": "سبأ",
@@ -269,7 +269,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "34.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/34.json"
   },
   {
     "song": "فاطر",
@@ -277,7 +277,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "35.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/35.json"
   },
   {
     "song": "يس",
@@ -285,7 +285,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "36.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/36.json"
   },
   {
     "song": "الصافات",
@@ -293,7 +293,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "37.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/37.json"
   },
   {
     "song": "ص",
@@ -301,7 +301,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "38.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/38.json"
   },
   {
     "song": "الزمر",
@@ -309,7 +309,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "39.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/39.json"
   },
   {
     "song": "غافر",
@@ -317,7 +317,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "40.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/40.json"
   },
   {
     "song": "فصلت",
@@ -325,7 +325,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "41.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/41.json"
   },
   {
     "song": "الشورى",
@@ -333,7 +333,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "42.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/42.json"
   },
   {
     "song": "الزخرف",
@@ -341,7 +341,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "43.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/43.json"
   },
   {
     "song": "الدخان",
@@ -349,7 +349,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "44.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/44.json"
   },
   {
     "song": "الجاثية",
@@ -357,7 +357,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "45.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/45.json"
   },
   {
     "song": "الأحقاف",
@@ -365,7 +365,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "46.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/46.json"
   },
   {
     "song": "محمد",
@@ -373,7 +373,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "47.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/47.json"
   },
   {
     "song": "الفتح",
@@ -381,7 +381,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "48.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/48.json"
   },
   {
     "song": "الحجرات",
@@ -389,7 +389,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "49.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/49.json"
   },
   {
     "song": "ق",
@@ -397,7 +397,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "50.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/50.json"
   },
   {
     "song": "الذاريات",
@@ -405,7 +405,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "51.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/51.json"
   },
   {
     "song": "الطور",
@@ -413,7 +413,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "52.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/52.json"
   },
   {
     "song": "النجم",
@@ -421,7 +421,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "53.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/53.json"
   },
   {
     "song": "القمر",
@@ -429,7 +429,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "54.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/54.json"
   },
   {
     "song": "الرحمن",
@@ -437,7 +437,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "55.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/55.json"
   },
   {
     "song": "الواقعة",
@@ -445,7 +445,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "56.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/56.json"
   },
   {
     "song": "الحديد",
@@ -453,7 +453,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "57.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/57.json"
   },
   {
     "song": "المجادلة",
@@ -461,7 +461,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "58.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/58.json"
   },
   {
     "song": "الحشر",
@@ -469,7 +469,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "59.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/59.json"
   },
   {
     "song": "الممتحنة",
@@ -477,7 +477,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "60.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/60.json"
   },
   {
     "song": "الصف",
@@ -485,7 +485,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "61.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/61.json"
   },
   {
     "song": "الجمعة",
@@ -493,7 +493,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "62.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/62.json"
   },
   {
     "song": "المنافقون",
@@ -501,7 +501,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "63.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/63.json"
   },
   {
     "song": "التغابن",
@@ -509,7 +509,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "64.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/64.json"
   },
   {
     "song": "الطلاق",
@@ -517,7 +517,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "65.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/65.json"
   },
   {
     "song": "التحريم",
@@ -525,7 +525,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "66.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/66.json"
   },
   {
     "song": "الملك",
@@ -533,7 +533,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "67.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/67.json"
   },
   {
     "song": "القلم",
@@ -541,7 +541,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "68.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/68.json"
   },
   {
     "song": "الحاقة",
@@ -549,7 +549,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "69.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/69.json"
   },
   {
     "song": "المعارج",
@@ -557,7 +557,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "70.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/70.json"
   },
   {
     "song": "نوح",
@@ -565,7 +565,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "71.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/71.json"
   },
   {
     "song": "الجن",
@@ -573,7 +573,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "72.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/72.json"
   },
   {
     "song": "المزمل",
@@ -581,7 +581,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "73.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/73.json"
   },
   {
     "song": "المدثر",
@@ -589,7 +589,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "74.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/74.json"
   },
   {
     "song": "القيامة",
@@ -597,7 +597,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "75.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/75.json"
   },
   {
     "song": "الإنسان",
@@ -605,7 +605,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "76.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/76.json"
   },
   {
     "song": "المرسلات",
@@ -613,7 +613,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "77.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/77.json"
   },
   {
     "song": "النبأ",
@@ -621,7 +621,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "78.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/78.json"
   },
   {
     "song": "النازعات",
@@ -629,7 +629,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "79.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/79.json"
   },
   {
     "song": "عبس",
@@ -637,7 +637,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "80.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/80.json"
   },
   {
     "song": "التكوير",
@@ -645,7 +645,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "81.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/81.json"
   },
   {
     "song": "الانفطار",
@@ -653,7 +653,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "82.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/82.json"
   },
   {
     "song": "المطففين",
@@ -661,7 +661,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "83.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/83.json"
   },
   {
     "song": "الانشقاق",
@@ -669,7 +669,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "84.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/84.json"
   },
   {
     "song": "البروج",
@@ -677,7 +677,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "85.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/85.json"
   },
   {
     "song": "الطارق",
@@ -685,7 +685,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "86.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/86.json"
   },
   {
     "song": "الأعلى",
@@ -693,7 +693,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "87.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/87.json"
   },
   {
     "song": "الغاشية",
@@ -701,7 +701,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "88.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/88.json"
   },
   {
     "song": "الفجر",
@@ -709,7 +709,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "89.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/89.json"
   },
   {
     "song": "البلد",
@@ -717,7 +717,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "90.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/90.json"
   },
   {
     "song": "الشمس",
@@ -725,7 +725,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "91.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/91.json"
   },
   {
     "song": "الليل",
@@ -733,7 +733,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "92.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/92.json"
   },
   {
     "song": "الضحى",
@@ -741,7 +741,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "93.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/93.json"
   },
   {
     "song": "الشرح",
@@ -749,7 +749,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "94.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/94.json"
   },
   {
     "song": "التين",
@@ -757,7 +757,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "95.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/95.json"
   },
   {
     "song": "العلق",
@@ -765,7 +765,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "96.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/96.json"
   },
   {
     "song": "القدر",
@@ -773,7 +773,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "97.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/97.json"
   },
   {
     "song": "البينة",
@@ -781,7 +781,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "98.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/98.json"
   },
   {
     "song": "الزلزلة",
@@ -789,7 +789,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "99.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/99.json"
   },
   {
     "song": "العاديات",
@@ -797,7 +797,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "100.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/100.json"
   },
   {
     "song": "القارعة",
@@ -805,7 +805,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "101.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/101.json"
   },
   {
     "song": "التكاثر",
@@ -813,7 +813,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "102.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/102.json"
   },
   {
     "song": "العصر",
@@ -821,7 +821,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "103.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/103.json"
   },
   {
     "song": "الهمزة",
@@ -829,7 +829,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "104.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/104.json"
   },
   {
     "song": "الفيل",
@@ -837,7 +837,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "105.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/105.json"
   },
   {
     "song": "قريش",
@@ -845,7 +845,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "106.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/106.json"
   },
   {
     "song": "الماعون",
@@ -853,7 +853,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "107.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/107.json"
   },
   {
     "song": "الكوثر",
@@ -861,7 +861,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "108.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/108.json"
   },
   {
     "song": "الكافرون",
@@ -869,7 +869,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "109.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/109.json"
   },
   {
     "song": "النصر",
@@ -877,7 +877,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "110.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/110.json"
   },
   {
     "song": "المسد",
@@ -885,8 +885,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "111.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/111.json"
   },
   {
     "song": "الإخلاص",
@@ -894,7 +893,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "112.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/112.json"
   },
   {
     "song": "الفلق",
@@ -902,7 +901,7 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "113.json"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/113.json"
   },
   {
     "song": "الناس",
@@ -910,6 +909,6 @@
     "artists": "عبد الحميد احساين",
     "cover_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
     "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah" : "114"
+    "surah" : "https://raw.githubusercontent.com/anasong/Quran/master/114"
   }
 ]
