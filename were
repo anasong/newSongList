@@ -1,127 +1,1027 @@
 [
   {
-    "artext": "الفاتحة",
+    "surah_titel": "الفاتحة",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/001.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/1.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/1.json",
     "packnem": "sss"
   },
   {
-    "artext": "البقرة",
+    "surah_titel": "البقرة",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/002.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/2.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/2.json",
     "packnem": "sss"
   },
   {
-    "artext": "آل عمران",
+    "surah_titel": "آل عمران",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/003.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/3.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/3.json",
     "packnem": "sss"
   },
   {
-    "artext": "النساء",
+    "surah_titel": "النساء",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/004.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/4.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/4.json",
     "packnem": "sss"
   },
   {
-    "artext": "المائدة",
+    "surah_titel": "المائدة",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/005.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/5.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/5.json",
     "packnem": "sss"
   },
   {
-    "artext": "الأنعام",
+    "surah_titel": "الأنعام",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/006.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/6.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/6.json",
     "packnem": "sss"
   },
   {
-    "artext": "الأعراف",
+    "surah_titel": "الأعراف",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/007.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/7.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/7.json",
     "packnem": "sss"
   },
   {
-    "artext": "الأنفال",
+    "surah_titel": "الأنفال",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/008.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/8.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/8.json",
     "packnem": "sss"
   },
   {
-    "artext": "التوبة",
+    "surah_titel": "التوبة",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/009.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/9.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/9.json",
     "packnem": "sss"
   },
   {
-    "artext": "يونس",
+    "surah_titel": "يونس",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/010.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/10.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/10.json",
     "packnem": "sss"
   },
   {
-    "artext": "هود",
+    "surah_titel": "هود",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/011.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/11.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/11.json",
     "packnem": "sss"
   },
   {
-    "artext": "يوسف",
+    "surah_titel": "يوسف",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/012.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/12.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/12.json",
     "packnem": "sss"
   },
   {
-    "artext": "الرعد",
+    "surah_titel": "الرعد",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/013.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/13.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/13.json",
     "packnem": "sss"
   },
   {
-    "artext": "إبراهيم",
+    "surah_titel": "إبراهيم",
     "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/014.mp3",
-    "artists": "عبد الحميد احساين",
-    "imagview": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
-    "home_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
-    "surah": "https://raw.githubusercontent.com/anaartext/Quran/master/14.json",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/14.json",
     "packnem": "sss"
-  }]
+  },
+  {
+    "surah_titel": "الحجر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/015.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/15.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النحل",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/016.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/16.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الإسراء",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/017.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/17.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الكهف",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/018.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/18.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "مريم",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/019.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/19.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "طه",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/020.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/20.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الأنبياء",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/021.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/21.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الحج",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/022.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/22.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المؤمنون",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/023.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/23.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النور",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/024.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/24.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الفرقان",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/025.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/25.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الشعراء",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/026.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/26.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النمل",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/027.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/27.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "القصص",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/028.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/28.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "العنكبوت",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/029.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/29.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الروم",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/030.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/30.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "لقمان",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/031.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/31.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "السجدة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/032.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/32.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الأحزاب",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/033.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/33.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "سبأ",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/034.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/34.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "فاطر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/035.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/35.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "يس",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/036.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/36.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الصافات",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/037.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/37.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "ص",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/038.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/38.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الزمر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/039.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/39.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "غافر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/040.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/40.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "فصلت",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/041.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/41.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الشورى",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/042.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/42.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الزخرف",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/043.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/43.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الدخان",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/044.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/44.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الجاثية",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/045.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/45.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الأحقاف",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/046.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/46.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "محمد",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/047.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/47.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الفتح",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/048.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/48.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الحجرات",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/049.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/49.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "ق",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/050.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/50.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الذاريات",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/051.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/51.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الطور",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/052.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/52.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النجم",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/053.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/53.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "القمر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/054.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/54.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الرحمن",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/055.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/55.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الواقعة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/056.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/56.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الحديد",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/057.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/57.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المجادلة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/058.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/58.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الحشر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/059.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/59.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الممتحنة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/060.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/60.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الصف",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/061.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/61.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الجمعة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/062.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/62.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المنافقون",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/063.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/63.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "التغابن",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/064.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/64.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الطلاق",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/065.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/65.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "التحريم",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/066.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/66.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الملك",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/067.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/67.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "القلم",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/068.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/68.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الحاقة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/069.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/69.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المعارج",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/070.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/70.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "نوح",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/071.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/71.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الجن",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/072.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/72.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المزمل",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/073.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/73.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المدثر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/074.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/74.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "القيامة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/075.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/75.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الإنسان",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/076.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/76.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المرسلات",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/077.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/77.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النبأ",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/078.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/78.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النازعات",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/079.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/79.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "عبس",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/080.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/80.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "التكوير",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/081.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/81.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الانفطار",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/082.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/82.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المطففين",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/083.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/83.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الانشقاق",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/084.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/84.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "البروج",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/085.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/85.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الطارق",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/086.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/86.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الأعلى",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/087.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/87.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الغاشية",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/088.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/88.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الفجر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/089.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/89.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "البلد",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/090.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/90.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الشمس",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/091.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/91.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الليل",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/092.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/92.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الضحى",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/093.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/93.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الشرح",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/094.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/94.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "التين",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/095.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/95.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "العلق",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/096.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/96.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "القدر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/097.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/97.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "البينة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/098.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/98.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الزلزلة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/099.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/99.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "العاديات",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/100.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/100.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "القارعة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/101.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/101.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "التكاثر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/102.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/102.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "العصر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/103.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/103.json",
+    "nemea": "sss"
+  },
+  {
+    "surah_titel": "الهمزة",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/104.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/104.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الفيل",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/105.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/105.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "قريش",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/106.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/106.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الماعون",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/107.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/107.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الكوثر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/108.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/108.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الكافرون",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/109.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/109.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "النصر",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/110.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/110.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "المسد",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/111.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/111.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الإخلاص",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/112.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/112.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الفلق",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/113.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/113.json",
+    "packnem": "sss"
+  },
+  {
+    "surah_titel": "الناس",
+    "url": "https://archive.org/download/114-sora-abd-alhameed-ahsayn--quran-warsh-64kb/114.mp3",
+    "mokria_titel": "عبد الحميد احساين",
+    "mokria_image": "http://fr.assabile.com/media/person/200x256/abdelhamed-hssain.png",
+    "play_image": "http://pakword.com/wp-content/uploads/2014/06/Khana-Kaaba-Mecca-Sharif-HD-Wallpaper.jpg",
+    "surah_text": "https://raw.githubusercontent.com/anaartext/Quran/master/114"
+  }
+]
