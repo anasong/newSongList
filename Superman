@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "name": "Batman vs Superman",
+      "imageurl": "http://www.snowcorp.org/assets/demo/batman-v-superman.jpg"
+    },
+    {
+      "name": "Harry Potter",
+      "imageurl": "http://www.snowcorp.org/assets/demo/harry-potter.jpg"
+    },
+    {
+      "name": "Iron Man",
+      "imageurl": "http:\/\/www.snowcorp.org\/assets\/demo\/iron-man.jpg"
+    },
+    {
+      "name": "Lord of The Ring",
+      "imageurl": "http://www.snowcorp.org/assets/demo/lotr.jpg"
+    }
+  ]
+}
