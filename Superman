@@ -2,19 +2,23 @@
   "movies": [
     {
       "name": "Batman vs Superman",
-      "imageurl": "http://www.snowcorp.org/assets/demo/batman-v-superman.jpg"
+      "imageurl": "http://www.snowcorp.org/assets/demo/batman-v-superman.jpg",
+      "urrl": "https://raw.githubusercontent.com/anasong/Quran/master/1.json"
     },
     {
       "name": "Harry Potter",
-      "imageurl": "http://www.snowcorp.org/assets/demo/harry-potter.jpg"
+      "imageurl": "http://www.snowcorp.org/assets/demo/harry-potter.jpg",
+      "urrl": "https://raw.githubusercontent.com/anasong/Quran/master/2.json"
     },
     {
       "name": "Iron Man",
-      "imageurl": "http:\/\/www.snowcorp.org\/assets\/demo\/iron-man.jpg"
+      "imageurl": "http:\/\/www.snowcorp.org\/assets\/demo\/iron-man.jpg",
+      "urrl": "https://raw.githubusercontent.com/anasong/Quran/master/3.json"
     },
     {
       "name": "Lord of The Ring",
-      "imageurl": "http://www.snowcorp.org/assets/demo/lotr.jpg"
+      "imageurl": "http://www.snowcorp.org/assets/demo/lotr.jpg",
+      "urrl": "https://raw.githubusercontent.com/anasong/Quran/master/4.json"
     }
   ]
 }
